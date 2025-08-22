@@ -20,22 +20,22 @@ It features a **modern UI**, **category filtering**, **lightbox view with naviga
 
 
 ### Home Page:
-![Home](images/home page.png)
+![Home](images/home.png)
 
 ---
 
-### About Section:
-![About](images/about_page.png)
+### Images Section:
+![home1](images/home1.png)
 
 ---
 
-### Projects Section:
-![Projects](images/project_page.png)
+### City Section:
+![city](images/city.png)
 
 ---
 
-### Skills Section:
-![Skills](images/Skill_page.png)
+### Slider Section:
+![Slider](images/slider1.png)
 
 ---
 
@@ -62,7 +62,8 @@ It features a **modern UI**, **category filtering**, **lightbox view with naviga
 ├── script.js
 ├── /images/
 │ ├── home.png
-│ ├── animal section.png
+│ ├── city section.png
+│ ├── slider section.png
 └── README.md
 
 ---
